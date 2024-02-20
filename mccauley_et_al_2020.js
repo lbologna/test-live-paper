@@ -1,4 +1,4 @@
-var model_url = 'EBRAINS_live_papers/2020_mccauley_et_al/mccauley_et_al_2020_03.zip';
+var model_url = 'https://github.com/lbologna/test-live-paper/raw/main/mccauley_et_al_2020_03.zip';
 
 //var default_parameters = {'FUNCTIONS':['locnmda()', 'change_taurec()'], 'tstop' : 200, 'v_init': -70,'weightNMDA':  0.0009, 'taurec': 10};
 var default_parameters = {"h": {'FUNCTIONS': ['locnmda()', 'change_taurec()']}, 'tstop' : 200, 'v_init': -70,'weightNMDA':  0.0009, 'taurec':10};
